@@ -3,7 +3,7 @@
 
 Course Project Submission for Getting and Cleaning Data Course
 
-Note in Running this Code:
+## Note in Running this Code:
 
 * Please follow the instructions by the course project decription: https://class.coursera.org/getdata-003/human_grading/view/courses/972136/assessments/3/submissions.
 
@@ -11,9 +11,9 @@ Note in Running this Code:
 
 * Make sure that all necessary txt files are in your working directory.
 
-* remember to read the Code book in my repository.
+* Please remember to read the Code book in my repository for details and explanation of the Code.
 
-Note in my script
+## Note in my script
 
 * I assumed that Mission 2 is independent from Missions 3-5.
 
@@ -22,6 +22,6 @@ Note in my script
 * I assumed in the project description, "means" means the features with "mean()" and "standard deviations" means "std()"
 (That does not include things like "meanFreq()")
 
-Notes in References
+## Notes in References
 
 * I did refer to the course forum and many other materials online. Thanks to all authors of those threads and materials.
