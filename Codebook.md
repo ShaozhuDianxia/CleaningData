@@ -6,7 +6,7 @@ Or download from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2
 
 Still, you may want to register for the course Getting and Cleaning Data and see the Course Project descriptions.
 
-Besides, my attribution to external resources are contained in Readme.md.
+Besides, my attribution to external resources are contained in README.md.
 
 ## Logic of Code
 
