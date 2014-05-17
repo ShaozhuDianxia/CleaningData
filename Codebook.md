@@ -6,6 +6,8 @@ Or download from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2
 
 Still, you may want to register for the course Getting and Cleaning Data and see the Course Project descriptions.
 
+Besides, my attribution to external resources are contained in Readme.md.
+
 ## Logic of Code
 
 In my run_analysis.R script,
@@ -40,13 +42,14 @@ These signals were used to estimate variables of the feature vector for each pat
 * Variables Contained:
 
 mean: Mean value
+
 std: Standard deviation
 
 * Columns of the dataset
 
-ActivityName: Activity being performed
+ActivityName: Activities being performed (Extracted from activity_labels.txt)
 
-SubjectID: ID indicating the subject from whom data was collected
+SubjectID: IDs indicating the subjects from whom data was collected (Extracted from subject_test.txt and subject_train.txt)
 
 tBodyAccMeanX
 
