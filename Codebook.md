@@ -1,8 +1,10 @@
 ## Data Description and Original Data:
 
 See: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones for original data
+
 Or download from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
-Still, u may wanna register for the course Getting and Cleaning Data and see the Course Project descriptions.
+
+Still, you may want to register for the course Getting and Cleaning Data and see the Course Project descriptions.
 
 ## Logic of Code
 
