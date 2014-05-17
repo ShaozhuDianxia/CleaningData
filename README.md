@@ -15,7 +15,7 @@ Course Project Submission for Getting and Cleaning Data Course
 
 ## Note in my script
 
-* I assumed that Mission 2 is independent from Missions 3-5.
+* In the Script Comments, by "Mission n" (n = {1,2,3,4,5}) I meant the nth requirement in the project description.
 
 * I assumed that all used .txt files are consistent with each other for the purpose of this project.
 
