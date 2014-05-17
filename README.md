@@ -24,4 +24,4 @@ Course Project Submission for Getting and Cleaning Data Course
 
 ## Notes in References
 
-* I did refer to the course forum and many other materials online. Thanks to all authors of those threads and materials.
+* In generating the script, the Codebook and the Readme files, I did refer to the course forum and many other literatures online. My heartfelt thanks to all authors of those threads and literatures.
