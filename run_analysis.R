@@ -56,7 +56,7 @@ Label <- function(data) {
         labeledData# return the labeled data
 }
 
-# Step 3�� Mission 5, making the tidy independant data.
+# Step 3 Mission 5, making the tidy independant data.
 main <- function(name) {
         library(reshape2)
         # As taught in lecture, melting the dataset
