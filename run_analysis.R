@@ -1,7 +1,7 @@
 # Step 0: Reading in the test and train data, praparation for Mission 1
 # Also, finishing Mission 2. (For definition of "Mission n", see Readme.md;
 # for the reason to finish Mission 2 here, see the note ##0.4)
-# for attribution to external resources, please see readme.md.
+# for attribution to external resources, please see README.md.
 
 ## 0.1, read and store Activity and Subject IDs for test.
 ytest <- read.table("y_test.txt", col.names=c("ActivityID"))
