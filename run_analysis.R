@@ -14,7 +14,7 @@ Xtest <- read.table("X_test.txt", col.names=measureNames$MeasureName)
 ## I believe that the tidy dataset in Mission 5 is made from all Missions from 1
 ## through 4; that is, it's a tidy dataset of the extracted one rather than the
 ## entire one. Otherwise, the extracting stage (Mission 2) will be trivial as the
-## extracted dataset will be neither used later or observable by calling the main
+## extracted dataset will be neither used later nor observable by calling the main
 ## function. (Anyway I really hope the course project description could have been
 ## clearer about this)
 Xtest <- Xtest[,grep(".*mean\\(\\)|.*std\\(\\)", measureNames$MeasureName)]
